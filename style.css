@@ -1,5 +1,7 @@
-div h1 {
-  text-align: center;
-  color:black;
+div {
+ background-color:beige;
+
 }
 body { background-color: powderblue}
+p { color: black; } 
+h1 { color: red; }
