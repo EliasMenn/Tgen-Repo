@@ -1,7 +1,26 @@
 div {
-    background-color:beige;
-   
-   }
-   body { background-color: powderblue}
-   p { color: black; } 
-   h2 { color: slategray; }
+  text-align: center;
+}
+body {
+  background-color: powderblue;
+}
+p {
+  color: black;
+}
+h2 {
+  color: slategray;
+}
+h4 {
+  color: crimson;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
